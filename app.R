@@ -1,4 +1,6 @@
 library(shiny)
+# https://tzoght.shinyapps.io/firstshinyapp/
+# https://github.com/tzoght/firstshinyapp
 
 ui <- fluidPage(
   textInput("name", "What's your name?",value="John"),
